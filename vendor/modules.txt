@@ -1,0 +1,447 @@
+# dmitri.shuralyov.com/text/kebabcase v0.0.0-20180217051803-40e40b42552a
+## explicit
+# github.com/BurntSushi/locker v0.0.0-20171006230638-a6e239ea1c69
+## explicit
+github.com/BurntSushi/locker
+# github.com/BurntSushi/toml v0.3.1
+## explicit
+github.com/BurntSushi/toml
+# github.com/GeertJohan/go.rice v0.0.0-20170420135705-c02ca9a983da
+## explicit
+github.com/GeertJohan/go.rice
+github.com/GeertJohan/go.rice/embedded
+# github.com/PuerkitoBio/purell v1.1.0
+## explicit
+github.com/PuerkitoBio/purell
+# github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578
+## explicit
+github.com/PuerkitoBio/urlesc
+# github.com/alecthomas/chroma v0.5.0
+## explicit
+github.com/alecthomas/chroma
+github.com/alecthomas/chroma/formatters
+github.com/alecthomas/chroma/formatters/html
+github.com/alecthomas/chroma/lexers
+github.com/alecthomas/chroma/lexers/a
+github.com/alecthomas/chroma/lexers/b
+github.com/alecthomas/chroma/lexers/c
+github.com/alecthomas/chroma/lexers/circular
+github.com/alecthomas/chroma/lexers/d
+github.com/alecthomas/chroma/lexers/e
+github.com/alecthomas/chroma/lexers/f
+github.com/alecthomas/chroma/lexers/g
+github.com/alecthomas/chroma/lexers/h
+github.com/alecthomas/chroma/lexers/i
+github.com/alecthomas/chroma/lexers/internal
+github.com/alecthomas/chroma/lexers/j
+github.com/alecthomas/chroma/lexers/k
+github.com/alecthomas/chroma/lexers/l
+github.com/alecthomas/chroma/lexers/m
+github.com/alecthomas/chroma/lexers/n
+github.com/alecthomas/chroma/lexers/o
+github.com/alecthomas/chroma/lexers/p
+github.com/alecthomas/chroma/lexers/q
+github.com/alecthomas/chroma/lexers/r
+github.com/alecthomas/chroma/lexers/s
+github.com/alecthomas/chroma/lexers/t
+github.com/alecthomas/chroma/lexers/v
+github.com/alecthomas/chroma/lexers/w
+github.com/alecthomas/chroma/lexers/x
+github.com/alecthomas/chroma/lexers/y
+github.com/alecthomas/chroma/styles
+# github.com/bep/debounce v1.1.0
+## explicit
+github.com/bep/debounce
+# github.com/bep/gitmap v1.0.0
+## explicit
+github.com/bep/gitmap
+# github.com/bep/go-tocss v0.5.0
+## explicit
+github.com/bep/go-tocss/scss
+github.com/bep/go-tocss/scss/libsass
+github.com/bep/go-tocss/tocss
+# github.com/chaseadamsio/goorgeous v1.1.0
+## explicit
+github.com/chaseadamsio/goorgeous
+# github.com/cpuguy83/go-md2man v1.0.6
+## explicit
+github.com/cpuguy83/go-md2man/md2man
+# github.com/daaku/go.zipexe v0.0.0-20150329023125-a5fe2436ffcb
+## explicit
+github.com/daaku/go.zipexe
+# github.com/danwakefield/fnmatch v0.0.0-20160403171240-cbb64ac3d964
+## explicit
+github.com/danwakefield/fnmatch
+# github.com/davecgh/go-spew v1.1.1
+## explicit
+github.com/davecgh/go-spew/spew
+# github.com/disintegration/imaging v1.2.4
+## explicit
+github.com/disintegration/imaging
+# github.com/dlclark/regexp2 v1.1.6
+## explicit
+github.com/dlclark/regexp2
+github.com/dlclark/regexp2/syntax
+# github.com/eknkc/amber v0.0.0-20171010120322-cdade1c07385
+## explicit
+github.com/eknkc/amber
+github.com/eknkc/amber/parser
+# github.com/fatih/structs v1.0.0
+## explicit
+github.com/fatih/structs
+# github.com/fsnotify/fsnotify v1.4.7
+## explicit
+github.com/fsnotify/fsnotify
+# github.com/ghodss/yaml v0.0.0-20150909031657-73d445a93680
+## explicit
+github.com/ghodss/yaml
+# github.com/gobuffalo/envy v1.6.4
+## explicit
+github.com/gobuffalo/envy
+# github.com/gobuffalo/github_flavored_markdown v1.0.0
+## explicit
+github.com/gobuffalo/github_flavored_markdown
+# github.com/gobuffalo/plush v3.7.16+incompatible
+## explicit
+github.com/gobuffalo/plush
+github.com/gobuffalo/plush/ast
+github.com/gobuffalo/plush/lexer
+github.com/gobuffalo/plush/parser
+github.com/gobuffalo/plush/token
+# github.com/gobuffalo/tags v2.0.10+incompatible
+## explicit
+github.com/gobuffalo/tags
+github.com/gobuffalo/tags/form
+github.com/gobuffalo/tags/form/bootstrap
+# github.com/gobuffalo/uuid v2.0.3+incompatible
+## explicit
+github.com/gobuffalo/uuid
+# github.com/gobuffalo/validate v2.0.3+incompatible
+## explicit
+github.com/gobuffalo/validate
+github.com/gobuffalo/validate/validators
+# github.com/gobwas/glob v0.2.3
+## explicit
+github.com/gobwas/glob
+github.com/gobwas/glob/compiler
+github.com/gobwas/glob/match
+github.com/gobwas/glob/syntax
+github.com/gobwas/glob/syntax/ast
+github.com/gobwas/glob/syntax/lexer
+github.com/gobwas/glob/util/runes
+github.com/gobwas/glob/util/strings
+# github.com/gohugoio/hugo v0.47.1
+## explicit
+github.com/gohugoio/hugo/bufferpool
+github.com/gohugoio/hugo/cache
+github.com/gohugoio/hugo/common/errors
+github.com/gohugoio/hugo/common/hugio
+github.com/gohugoio/hugo/common/loggers
+github.com/gohugoio/hugo/common/maps
+github.com/gohugoio/hugo/common/math
+github.com/gohugoio/hugo/common/types
+github.com/gohugoio/hugo/compare
+github.com/gohugoio/hugo/config
+github.com/gohugoio/hugo/config/privacy
+github.com/gohugoio/hugo/config/services
+github.com/gohugoio/hugo/create
+github.com/gohugoio/hugo/deps
+github.com/gohugoio/hugo/docshelper
+github.com/gohugoio/hugo/helpers
+github.com/gohugoio/hugo/hugofs
+github.com/gohugoio/hugo/hugolib
+github.com/gohugoio/hugo/hugolib/filesystems
+github.com/gohugoio/hugo/hugolib/pagemeta
+github.com/gohugoio/hugo/hugolib/paths
+github.com/gohugoio/hugo/i18n
+github.com/gohugoio/hugo/langs
+github.com/gohugoio/hugo/livereload
+github.com/gohugoio/hugo/media
+github.com/gohugoio/hugo/metrics
+github.com/gohugoio/hugo/minifiers
+github.com/gohugoio/hugo/output
+github.com/gohugoio/hugo/parser
+github.com/gohugoio/hugo/publisher
+github.com/gohugoio/hugo/related
+github.com/gohugoio/hugo/releaser
+github.com/gohugoio/hugo/resource
+github.com/gohugoio/hugo/resource/bundler
+github.com/gohugoio/hugo/resource/create
+github.com/gohugoio/hugo/resource/integrity
+github.com/gohugoio/hugo/resource/minifier
+github.com/gohugoio/hugo/resource/postcss
+github.com/gohugoio/hugo/resource/templates
+github.com/gohugoio/hugo/resource/tocss/scss
+github.com/gohugoio/hugo/source
+github.com/gohugoio/hugo/tpl
+github.com/gohugoio/hugo/tpl/cast
+github.com/gohugoio/hugo/tpl/collections
+github.com/gohugoio/hugo/tpl/compare
+github.com/gohugoio/hugo/tpl/crypto
+github.com/gohugoio/hugo/tpl/data
+github.com/gohugoio/hugo/tpl/encoding
+github.com/gohugoio/hugo/tpl/fmt
+github.com/gohugoio/hugo/tpl/images
+github.com/gohugoio/hugo/tpl/inflect
+github.com/gohugoio/hugo/tpl/internal
+github.com/gohugoio/hugo/tpl/lang
+github.com/gohugoio/hugo/tpl/math
+github.com/gohugoio/hugo/tpl/os
+github.com/gohugoio/hugo/tpl/partials
+github.com/gohugoio/hugo/tpl/path
+github.com/gohugoio/hugo/tpl/resources
+github.com/gohugoio/hugo/tpl/safe
+github.com/gohugoio/hugo/tpl/strings
+github.com/gohugoio/hugo/tpl/templates
+github.com/gohugoio/hugo/tpl/time
+github.com/gohugoio/hugo/tpl/tplimpl
+github.com/gohugoio/hugo/tpl/tplimpl/embedded
+github.com/gohugoio/hugo/tpl/transform
+github.com/gohugoio/hugo/tpl/urls
+github.com/gohugoio/hugo/transform
+github.com/gohugoio/hugo/transform/livereloadinject
+github.com/gohugoio/hugo/transform/metainject
+github.com/gohugoio/hugo/transform/urlreplacers
+github.com/gohugoio/hugo/watcher
+# github.com/golang/glog v0.0.0-20141105023935-44145f04b68c
+## explicit
+github.com/golang/glog
+# github.com/google/go-jsonnet v0.11.2
+## explicit
+github.com/google/go-jsonnet
+github.com/google/go-jsonnet/ast
+github.com/google/go-jsonnet/parser
+# github.com/gorilla/websocket v1.3.0
+## explicit
+github.com/gorilla/websocket
+# github.com/hashicorp/go-immutable-radix v0.0.0-20180129170900-7f3cd4390caa
+## explicit
+github.com/hashicorp/go-immutable-radix
+# github.com/hashicorp/golang-lru v0.0.0-20180201235237-0fb14efe8c47
+## explicit
+github.com/hashicorp/golang-lru/simplelru
+# github.com/hashicorp/hcl v1.0.0
+## explicit
+github.com/hashicorp/hcl
+github.com/hashicorp/hcl/hcl/ast
+github.com/hashicorp/hcl/hcl/parser
+github.com/hashicorp/hcl/hcl/printer
+github.com/hashicorp/hcl/hcl/scanner
+github.com/hashicorp/hcl/hcl/strconv
+github.com/hashicorp/hcl/hcl/token
+github.com/hashicorp/hcl/json/parser
+github.com/hashicorp/hcl/json/scanner
+github.com/hashicorp/hcl/json/token
+# github.com/inconshreveable/mousetrap v1.0.0
+## explicit
+github.com/inconshreveable/mousetrap
+# github.com/jdkato/prose v1.1.0
+## explicit
+github.com/jdkato/prose/internal/util
+github.com/jdkato/prose/transform
+# github.com/joho/godotenv v1.2.0
+## explicit
+github.com/joho/godotenv
+# github.com/kardianos/osext v0.0.0-20170510131534-ae77be60afb1
+## explicit
+github.com/kardianos/osext
+# github.com/ksonnet/kslibdocs v0.0.0-20180827154151-a6e1d60655e8
+## explicit
+github.com/ksonnet/kslibdocs/pkg/docgen
+github.com/ksonnet/kslibdocs/pkg/docgen/template
+github.com/ksonnet/kslibdocs/pkg/site
+# github.com/ksonnet/ksonnet v0.12.0
+## explicit
+github.com/ksonnet/ksonnet/pkg/docparser
+github.com/ksonnet/ksonnet/pkg/log
+github.com/ksonnet/ksonnet/pkg/util/jsonnet
+# github.com/ksonnet/ksonnet-lib v0.1.10
+## explicit
+github.com/ksonnet/ksonnet-lib/ksonnet-gen/astext
+github.com/ksonnet/ksonnet-lib/ksonnet-gen/printer
+# github.com/kyokomi/emoji v1.5.1
+## explicit
+github.com/kyokomi/emoji
+# github.com/magiconair/properties v1.8.0
+## explicit
+github.com/magiconair/properties
+# github.com/markbates/inflect v0.0.0-20171215194931-a12c3aec81a6
+## explicit
+github.com/markbates/inflect
+# github.com/mattn/go-runewidth v0.0.3
+## explicit
+github.com/mattn/go-runewidth
+# github.com/microcosm-cc/bluemonday v1.0.1
+## explicit
+github.com/microcosm-cc/bluemonday
+# github.com/miekg/mmark v1.3.6
+## explicit
+github.com/miekg/mmark
+# github.com/mitchellh/hashstructure v0.0.0-20170609045927-2bca23e0e452
+## explicit
+github.com/mitchellh/hashstructure
+# github.com/mitchellh/mapstructure v1.0.0
+## explicit
+github.com/mitchellh/mapstructure
+# github.com/muesli/smartcrop v0.2.1-0.20180228075044-f6ebaa786a12
+## explicit
+github.com/muesli/smartcrop
+github.com/muesli/smartcrop/options
+# github.com/nicksnyder/go-i18n v1.10.0
+## explicit
+github.com/nicksnyder/go-i18n/i18n/bundle
+github.com/nicksnyder/go-i18n/i18n/language
+github.com/nicksnyder/go-i18n/i18n/translation
+# github.com/olekukonko/tablewriter v0.0.0-20180506121414-d4647c9c7a84
+## explicit
+github.com/olekukonko/tablewriter
+# github.com/otiai10/copy v0.0.0-20180813032824-7e9a647135a1
+## explicit
+github.com/otiai10/copy
+# github.com/pelletier/go-toml v1.2.0
+## explicit
+github.com/pelletier/go-toml
+# github.com/pkg/errors v0.8.0
+## explicit
+github.com/pkg/errors
+# github.com/pmezard/go-difflib v1.0.0
+## explicit
+github.com/pmezard/go-difflib/difflib
+# github.com/russross/blackfriday v1.5.2-0.20180804101149-46c73eb196ba
+## explicit
+github.com/russross/blackfriday
+# github.com/serenize/snaker v0.0.0-20171204205717-a683aaf2d516
+## explicit
+github.com/serenize/snaker
+# github.com/sergi/go-diff v1.0.0
+## explicit
+github.com/sergi/go-diff/diffmatchpatch
+# github.com/shurcooL/go v0.0.0-20180423040247-9e1955d9fb6e
+## explicit
+# github.com/shurcooL/go-goon v0.0.0-20170922171312-37c2f522c041
+## explicit
+# github.com/shurcooL/graphql v0.0.0-20180514000029-62c9ce094e75
+## explicit
+# github.com/shurcooL/highlight_diff v0.0.0-20170515013008-09bb4053de1b
+## explicit
+github.com/shurcooL/highlight_diff
+# github.com/shurcooL/highlight_go v0.0.0-20170515013102-78fb10f4a5f8
+## explicit
+github.com/shurcooL/highlight_go
+# github.com/shurcooL/octicon v0.0.0-20180602230221-c42b0e3b24d9
+## explicit
+github.com/shurcooL/octicon
+# github.com/shurcooL/sanitized_anchor_name v0.0.0-20170918181015-86672fcb3f95
+## explicit
+github.com/shurcooL/sanitized_anchor_name
+# github.com/sirupsen/logrus v1.0.6-0.20180329225952-778f2e774c72
+## explicit
+github.com/sirupsen/logrus
+# github.com/sourcegraph/annotate v0.0.0-20160123013949-f4cad6c6324d
+## explicit
+github.com/sourcegraph/annotate
+# github.com/sourcegraph/syntaxhighlight v0.0.0-20170531221838-bd320f5d308e
+## explicit
+github.com/sourcegraph/syntaxhighlight
+# github.com/spf13/afero v1.1.1
+## explicit
+github.com/spf13/afero
+github.com/spf13/afero/mem
+# github.com/spf13/cast v1.2.0
+## explicit
+github.com/spf13/cast
+# github.com/spf13/cobra v0.0.3
+## explicit
+github.com/spf13/cobra
+github.com/spf13/cobra/doc
+# github.com/spf13/fsync v0.0.0-20170320142552-12a01e648f05
+## explicit
+github.com/spf13/fsync
+# github.com/spf13/hugo v0.47.1
+## explicit
+github.com/spf13/hugo/commands
+# github.com/spf13/jwalterweatherman v0.0.0-20180814060501-14d3d4c51834
+## explicit
+github.com/spf13/jwalterweatherman
+# github.com/spf13/nitro v0.0.0-20131003134307-24d7ef30a12d
+## explicit
+github.com/spf13/nitro
+# github.com/spf13/pflag v1.0.2
+## explicit
+github.com/spf13/pflag
+# github.com/spf13/viper v1.1.0
+## explicit
+github.com/spf13/viper
+# github.com/stretchr/testify v1.2.2
+## explicit
+github.com/stretchr/testify/assert
+github.com/stretchr/testify/require
+# github.com/tdewolff/minify v2.3.5+incompatible
+## explicit
+github.com/tdewolff/minify
+github.com/tdewolff/minify/css
+github.com/tdewolff/minify/html
+github.com/tdewolff/minify/js
+github.com/tdewolff/minify/json
+github.com/tdewolff/minify/svg
+github.com/tdewolff/minify/xml
+# github.com/tdewolff/parse v2.3.3+incompatible
+## explicit
+github.com/tdewolff/parse
+github.com/tdewolff/parse/buffer
+github.com/tdewolff/parse/css
+github.com/tdewolff/parse/html
+github.com/tdewolff/parse/js
+github.com/tdewolff/parse/json
+github.com/tdewolff/parse/strconv
+github.com/tdewolff/parse/svg
+github.com/tdewolff/parse/xml
+# github.com/wellington/go-libsass v0.9.2
+## explicit
+github.com/wellington/go-libsass/libs
+# github.com/yosssi/ace v0.0.5
+## explicit
+github.com/yosssi/ace
+# golang.org/x/crypto v0.0.0-20180820150726-614d502a4dac
+## explicit
+golang.org/x/crypto/ssh/terminal
+# golang.org/x/image v0.0.0-20180708004352-c73c2afc3b81
+## explicit
+golang.org/x/image/bmp
+golang.org/x/image/draw
+golang.org/x/image/math/f64
+golang.org/x/image/riff
+golang.org/x/image/tiff
+golang.org/x/image/tiff/lzw
+golang.org/x/image/vp8
+golang.org/x/image/vp8l
+golang.org/x/image/webp
+# golang.org/x/net v0.0.0-20180826012351-8a410e7b638d
+## explicit
+golang.org/x/net/context
+golang.org/x/net/html
+golang.org/x/net/html/atom
+golang.org/x/net/idna
+# golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f
+## explicit
+golang.org/x/sync/errgroup
+# golang.org/x/sys v0.0.0-20180824143301-4910a1d54f87
+## explicit
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/text v0.3.1-0.20180810153555-6e3c4e7365dd
+## explicit
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+golang.org/x/text/width
+# gopkg.in/russross/blackfriday.v1 v1.5.1
+## explicit
+gopkg.in/russross/blackfriday.v1
+# gopkg.in/yaml.v2 v2.2.1
+## explicit
+gopkg.in/yaml.v2
+# k8s.io/apimachinery v0.0.0-20180601181227-17529ec7eadb
+## explicit
+k8s.io/apimachinery/pkg/util/yaml
